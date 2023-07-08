@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Midterm</string>
+    <string-array name="unit_types">
+        <item>Centimeters (cm)</item>
+        <item>Feet (ft)</item>
+        <item>Cups (cup)</item>
+        <item>Kilometers (km)</item>
+        <item>Grams (g)</item>
+        <item>Milliliters (ml)</item>
+    </string-array>
+
+    <string-array name="conversion_types">
+        <item>Centimeters to Inches</item>
+        <item>Feet to Centimeters</item>
+        <item>Cups to Tablespoons</item>
+        <item>Kilometers to Miles</item>
+        <item>Grams to Ounces</item>
+        <item>Milliliters to Ounces</item>
+    </string-array>
+
 </resources>
